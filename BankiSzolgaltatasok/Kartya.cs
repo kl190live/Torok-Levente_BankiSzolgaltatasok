@@ -31,6 +31,7 @@ namespace BankiSzolgaltatasok
                 return false;
             }
 
+
         }
 
 
